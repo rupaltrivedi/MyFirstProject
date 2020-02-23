@@ -6,8 +6,8 @@
       <class name="com.PageObjectsTest.LoginTest">
         <methods>
           <include name="loginByFirstUsernameTest"/>
+          <include name="setUp"/>
           <include name="signUpTest"/>
-          <include name="openBrowser"/>
           <include name="logIn"/>
         </methods>
       </class> <!-- com.PageObjectsTest.LoginTest -->

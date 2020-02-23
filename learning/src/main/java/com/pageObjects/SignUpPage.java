@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class SignUpPage extends BaseObject{
+public class SignUpPage{
 	
 	public WebDriverWait wait;
 	public WebDriver driver;
